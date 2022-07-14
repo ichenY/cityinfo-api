@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{77CE582D-7E5A-492E-ACCD-0A144AE623FD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CitiesDataStore.cs">
+    <Files>
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Models/CityDto.cs" Line="11" Column="1" />
+      <File FileName="Controllers/CitiesController.cs" Line="31" Column="23" />
+      <File FileName="CitiesDataStore.cs" Line="70" Column="1" />
+      <File FileName="Models/PointOfInterest.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CityInfo" expanded="True">
+            <Node name="CityInfo" expanded="True">
+              <Node name="Controllers" expanded="True" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CityInfo PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
